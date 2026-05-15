@@ -18,8 +18,11 @@ This 440-line application is divided into 8 powerful modules:
 7.  **BMI Calculator 🏥:** Calculates Body Mass Index and provides health status (Underweight, Healthy, etc.).
 8.  **Age Calculator 🧮:** Calculates exact age in years, months, and days, including a total breakdown of hours, minutes, and seconds lived.
 
-![Project Demo](demo_video.mp4)
 
+### 📺 Project Demo Video
+[![Watch the video](https://img.youtube.com/vi/GstXej25YS0/0.jpg)](https://youtu.be/GstXej25YS0)
+
+*To see the output , click on the photo*
 ## 🛠️ Technical Highlights
 
 As a developer, I focused on making this tool **"Crash-Proof"** and **"High Precision"**:
